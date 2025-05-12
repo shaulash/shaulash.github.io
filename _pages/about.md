@@ -15,4 +15,4 @@ My research interests include human-robot interaction, marginalized populations 
 
 Contact
 ------
-You can contact me at shaul.ashkenazi[at]glasgow.ac.uk
+You can contact me at shaul.ashkenazi@glasgow.ac.uk
