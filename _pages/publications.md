@@ -1,0 +1,53 @@
+---
+permalink: /
+layout: single
+title: "Publications"
+permalink: /publications/
+---
+
+### My [Google Scholar profile](https://scholar.google.com/citations?user=ChQURKcAAAAJ) has a complete list of publications.
+
+## Conference Proceedings
+
+**Ashkenazi, S.**, Srour-Zreik, R., Skantze, G., Stuart-Smith, J., and Foster, M.E. (2025). 
+Participatory Design for Human-Robot Interaction with Syrian Refugees and Asylum Seekers. 
+In: _2025 International Conference on Social Robotics + AI (ICSR+AI)_, Naples, Italy, 10-12 Sep 2025.
+
+**Ashkenazi, S.**, Skantze, G., Stuart-Smith, J., and Foster, M.E. (2025). 
+The Multilingual Student Support Robot. In: 
+_2025 IEEE International Conference on Robot and Human Interactive Communication (RO-MAN 2025)_, 
+Eindhoven, The Netherlands, 25-29 Aug 2025.
+
+**Ashkenazi, S.**, Skantze, G., Stuart-Smith, J., & Foster, M. E. (2024, March). 
+Goes to the Heart: Speaking the User's Native Language. 
+_In Companion of the 2024 ACM/IEEE International Conference on Human-Robot Interaction_ (pp. 214-218). DOI: 
+[10.1145/3610978.3640633](https://dl.acm.org/doi/10.1145/3610978.3640633)
+
+## Workshops
+
+Foster, M. E., **Ashkenazi, S.**, Blair, A., Ramirez-Duque, A., Ali, S., Candelaria, P., ... & Zeller, F. (2024). 
+Including Front-Line Workers as Primary Stakeholders in Public-Space HRI.
+First International Workshop on Worker Robot Relationships @ _HRI’24_, 2024. 
+[LINK](https://drive.google.com/file/d/1ITL2tnZ1wJR2Zq6AdxcHZHRPIdgoLcU7/view)
+
+
+## Journals
+
+Sela-Culang, I., **Ashkenazi, S.**, Peters, B., & Ofran, Y. (2015). 
+PEASE: predicting B-cell epitopes utilizing antibody sequence. 
+_Bioinformatics_, 31(8), 1313-1315. DOI:
+[10.1093/bioinformatics/btu790](https://doi.org/10.1093/bioinformatics/btu790)
+
+Feiglin, A., **Ashkenazi, S.**, Schlessinger, A., Rost, B., & Ofran, Y. (2014). 
+Co-expression and co-localization of hub proteins and their partners are encoded in 
+protein sequence. _Molecular BioSystems_, 10(4), 787-794. DOI: [10.1039/c3mb70411d](https://doi.org/10.1039/c3mb70411d)
+
+**Ashkenazi, S.**, Snir, R., & Ofran, Y. (2012). Assessing the relationship between conservation 
+of function and conservation of sequence using photosynthetic proteins. 
+_Bioinformatics_, 28(24), 3203-3210. DOI:
+[10.1093/bioinformatics/bts608](https://doi.org/10.1093/bioinformatics/bts608)
+
+
+Kunik, V., **Ashkenazi, S.**, & Ofran, Y. (2012). Paratome: an online tool for systematic identification of 
+antigen-binding regions in antibodies based on sequence or structure. _Nucleic acids research_, 
+40(W1), W521-W524. DOI: [10.1093/nar/gks480](https://doi.org/10.1093/nar/gks480)
