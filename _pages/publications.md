@@ -36,7 +36,7 @@ _In Companion of the 2024 ACM/IEEE International Conference on Human-Robot Inter
 **Ashkenazi, S.**, Skantze, G., Stuart-Smith, J., and Foster, M.E. (2025). 
 Into the Wild: When Robots Are Not Welcome.
 Real-World HRI in Public and Private Spaces: Successes, Failures and Lessons Learned (PubRob-Fails) @ _RO-MAN’25_, 2025. 
-[Paper Link](https://shaulashkenazi.com/publications/2025_RO_MAN__into_the_wild_when_robots_are_not_welcome.pdf)
+[Paper Link](https://doi.org/10.48550/arXiv.2508.12075)
 
 Foster, M. E., **Ashkenazi, S.**, Blair, A., Ramirez-Duque, A., Ali, S., Candelaria, P., ... & Zeller, F. (2024). 
 Including Front-Line Workers as Primary Stakeholders in Public-Space HRI.
