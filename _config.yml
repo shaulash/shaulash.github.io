@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Shaul Ashkenazi"
+title                    : "Home"
 title_separator          : "-"
-name                     : &name "Shaul Ashkenazi"
-description              : &description "personal description"
+name                     : "Shaul Ashkenazi"
+description              : "personal description"
 url                      : https://shaulash.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "shaulash/shaulash.github.io"
@@ -23,11 +23,11 @@ repository               : "shaulash/shaulash.github.io"
 author:
   # Biographic information
   avatar           : "me.png"
-  name             : #"Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "PhD Researcher in Social Robotics"
+  name             : "Shaul Ashkenazi"
+  pronouns         : "PhD Researcher"
+  bio              : "The University of Glasgow"
   location         : "Glasgow, UK"
-  employer         : "University of Glasgow"
+  employer         : # University of Glasgow
   uri              : # URL
   email            : # EMAIL
 

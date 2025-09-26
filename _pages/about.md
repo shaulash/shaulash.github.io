@@ -1,13 +1,14 @@
 ---
 permalink: /
-title: "About Me"
+title: "Shaul Ashkenazi"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-<CENTER><img style="border:1px solid #000000" src="images/arcadia.png" width="400"></CENTER>
+<BR/>
+<BR/>
+<img style="border:1px solid #000000" src="images/arcadia.png" width="450">
 <BR/>
 
 I am a PhD researcher in the School of Computing Science at the University of Glasgow. 
