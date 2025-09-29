@@ -1,12 +1,12 @@
 ---
 permalink: /
-title: "Shaul Ashkenazi"
+title:
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-<BR/>
+<H1>About Me</H1>
 <BR/>
 <img style="border:1px solid #000000" src="images/arcadia.png" width="450">
 <BR/>

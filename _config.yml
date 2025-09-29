@@ -9,8 +9,8 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Home"
-title_separator          : "-"
+title                    : "Shaul Ashkenazi"
+title_separator          : "&#124;"
 name                     : "Shaul Ashkenazi"
 description              : "personal description"
 url                      : https://shaulash.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
