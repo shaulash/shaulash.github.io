@@ -12,5 +12,5 @@ permalink: /videos/
 
 
 [![The Multilingual Student Support Robot](
-https://img.youtube.com/vi/YVviY7dG32o/maxresdefault.jpg
+../images/furhat_robot.png
 )](https://youtu.be/YVviY7dG32o)
