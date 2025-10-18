@@ -20,18 +20,21 @@ _2025 IEEE International Conference on Robot and Human Interactive Communication
 Eindhoven, The Netherlands, 25-29 Aug 2025. 
 [Paper Link](https://shaulashkenazi.com/publications/2025_RO_MAN_preprint__the_multilingual_student_support_robot.pdf)
 
-**Ashkenazi, S.**, Webber, B., and Wolters, M. (2025). 
-Effective Recovery Strategies in Conversations with Older Adults. In: 
-_2025 IEEE International Conference on Robot and Human Interactive Communication (RO-MAN 2025)_, 
-Eindhoven, The Netherlands, 25-29 Aug 2025.
-[Paper Link](https://shaulashkenazi.com/publications/2025_RO_MAN_LBR__effective_recovery_strategies_in_conversations_with_older_adults.pdf)
-
 **Ashkenazi, S.**, Skantze, G., Stuart-Smith, J., & Foster, M. E. (2024, March). 
 Goes to the Heart: Speaking the User's Native Language. 
 _In Companion of the 2024 ACM/IEEE International Conference on Human-Robot Interaction_ (pp. 214-218). DOI: 
 [10.1145/3610978.3640633](https://dl.acm.org/doi/10.1145/3610978.3640633)
 
-## Workshop Items
+## Conference and Workshop Items
+
+**Ashkenazi, S.**, Srour-Zreik, R., Skantze, G., Stuart-Smith, J., and Foster, M.E. (2025).
+Crossing Borders Together: Co-Designing Robots with Refugees and Asylum Seekers.
+Workshop on Robots and Autonomous Systems for Refugees, Asylum Seekers, and Migrants (RAS4RASM) @ _RO-MAN’25_, 2025.
+
+**Ashkenazi, S.**, Webber, B., and Wolters, M. (2025). 
+Effective Recovery Strategies in Conversations with Older Adults. 
+Late-Breaking Report @ _RO-MAN’25_, 2025.
+[Paper Link](https://shaulashkenazi.com/publications/2025_RO_MAN_LBR__effective_recovery_strategies_in_conversations_with_older_adults.pdf)
 
 **Ashkenazi, S.**, Skantze, G., Stuart-Smith, J., and Foster, M.E. (2025). 
 Into the Wild: When Robots Are Not Welcome.
