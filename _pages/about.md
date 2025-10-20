@@ -1,11 +1,12 @@
 ---
 permalink: /
-title: "Shaul Ashkenazi"
+title:
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+<H1>Shaul Ashkenazi</H1>
 PhD Researcher at the University of Glasgow 
 <H2>About Me</H2>
 I am a PhD researcher in the School of Computing Science at the University of Glasgow. 
