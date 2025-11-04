@@ -14,13 +14,12 @@ Participatory Design for Human-Robot Interaction with Syrian Refugees and Asylum
 In: _2025 International Conference on Social Robotics + AI (ICSR+AI)_, Naples, Italy, 10-12 Sep 2025.
 [Paper Link](https://shaulashkenazi.com/publications/2025_ICSR_preprint__participatory_design_for_hri_with_syrian_refugees_and_asylum_seekers.pdf)
 
-**Ashkenazi, S.**, Skantze, G., Stuart-Smith, J., and Foster, M.E. (2025). 
+**Ashkenazi, S.**, Skantze, G., Stuart-Smith, J., and Foster, M.E. (2025).
 The Multilingual Student Support Robot. In: 
-_2025 IEEE International Conference on Robot and Human Interactive Communication (RO-MAN 2025)_, 
-Eindhoven, The Netherlands, 25-29 Aug 2025. 
-[Paper Link](https://shaulashkenazi.com/publications/2025_RO_MAN_preprint__the_multilingual_student_support_robot.pdf)
+_2025 34th IEEE International Conference on Robot and Human Interactive Communication (RO-MAN)_ (pp. 953-958). DOI:
+[10.1109/RO-MAN63969.2025.11217768](https://doi.org/10.1109/RO-MAN63969.2025.11217768)
 
-**Ashkenazi, S.**, Skantze, G., Stuart-Smith, J., & Foster, M. E. (2024, March). 
+**Ashkenazi, S.**, Skantze, G., Stuart-Smith, J., and Foster, M. E. (2024). 
 Goes to the Heart: Speaking the User's Native Language. 
 _In Companion of the 2024 ACM/IEEE International Conference on Human-Robot Interaction_ (pp. 214-218). DOI: 
 [10.1145/3610978.3640633](https://dl.acm.org/doi/10.1145/3610978.3640633)
