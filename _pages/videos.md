@@ -10,7 +10,8 @@ permalink: /videos/
 
 {% include video id="0gVXvq3r88E" provider="youtube" cover="../images/furhat_talk.png"%}
 <u>Invited Talk</u>: <b>"Multilingual Social Robots Bridging AI and Bureaucratic Challenges"</b><BR/>
-The 9th Furhat conference on Social Robotics | Oct 15h, 2025
+The 9th Furhat conference on Social Robotics | Oct 15h, 2025 ([conference link](
+https://www.furhatrobotics.com/the-9th-furhat-conference-on-social-robotics))
 <BR/><BR/>
 
 {% include video id="YVviY7dG32o" provider="youtube" cover="../images/furhat_robot.png"%}

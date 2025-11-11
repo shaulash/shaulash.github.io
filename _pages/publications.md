@@ -21,7 +21,7 @@ _2025 34th IEEE International Conference on Robot and Human Interactive Communic
 
 **Ashkenazi, S.**, Skantze, G., Stuart-Smith, J., and Foster, M. E. (2024). 
 Goes to the Heart: Speaking the User's Native Language. 
-_In Companion of the 2024 ACM/IEEE International Conference on Human-Robot Interaction_ (pp. 214-218). DOI: 
+In: _Companion of the 2024 ACM/IEEE International Conference on Human-Robot Interaction_ (pp. 214-218). DOI: 
 [10.1145/3610978.3640633](https://dl.acm.org/doi/10.1145/3610978.3640633)
 
 ## Conference and Workshop Items
