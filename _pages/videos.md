@@ -14,6 +14,12 @@ The 9th Furhat conference on Social Robotics | Oct 15h, 2025 ([conference link](
 https://www.furhatrobotics.com/the-9th-furhat-conference-on-social-robotics))
 <BR/><BR/>
 
+
+{% include video id="TCk72BZwQvI" provider="youtube" cover="../images/furhat_in_the_wild.png"%}
+<u>Demonstration</u>: A support interaction in the student support center (In-The-Wild)
+<BR/><BR/>
+
+
 {% include video id="YVviY7dG32o" provider="youtube" cover="../images/furhat_robot.png"%}
 <u>Demonstration</u>: A support interaction in Chinese Mandarin (with English subtitles)
 <BR/><BR/>
