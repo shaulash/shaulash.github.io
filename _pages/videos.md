@@ -5,7 +5,7 @@ title: "Videos"
 permalink: /videos/
 ---
 
-## Multilingual Support Robots
+## Invited Talks
 <BR/>
 
 {% include video id="0gVXvq3r88E" provider="youtube" cover="../images/furhat_talk.png"%}
@@ -14,16 +14,23 @@ The 9th Furhat conference on Social Robotics | Oct 15h, 2025 ([conference link](
 https://www.furhatrobotics.com/the-9th-furhat-conference-on-social-robotics))
 <BR/><BR/>
 
+## Demonstrations
+<BR/>
 
 {% include video id="TCk72BZwQvI" provider="youtube" cover="../images/furhat_in_the_wild.png"%}
 <u>Demonstration</u>: A support interaction in the student support center (In-The-Wild)
 <BR/><BR/>
 
-
 {% include video id="YVviY7dG32o" provider="youtube" cover="../images/furhat_robot.png"%}
 <u>Demonstration</u>: A support interaction in Chinese Mandarin (with English subtitles)
 <BR/><BR/>
 
+{% include video id="A0JDsxwyvI0" provider="youtube" cover="../images/furhat_robot_ar.png"%}
+<u>Demonstration</u>: A support interaction in Arabic (with English subtitles)
+<BR/><BR/>
+
+## Supplemental Material
+<BR/>
 
 {% include video id="x9C-5L4bky8" provider="youtube" cover="../images/goes_to_the_heart.png"%}
 <u>Supplemental Material</u>: **Ashkenazi, S.**, Skantze, G., Stuart-Smith, J., & Foster, M. E. (2024, March). 
