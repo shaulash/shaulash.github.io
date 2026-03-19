@@ -26,23 +26,34 @@ In: _Companion of the 2024 ACM/IEEE International Conference on Human-Robot Inte
 
 ## Conference and Workshop Items
 
+**Ashkenazi, S.** (2026).
+Reclaiming HRI for the Margins.
+In: Workshop on "Cruel optimism, Lucid Despair, Precarious Hope in HRI" @ _HRI’26_.
+[Paper Link](https://drive.google.com/file/d/14AA3sBEZbM_Y0P28nxwlcy_0OSG2me9o/view?usp=sharing)
+
+**Ashkenazi, S.**, Srour-Zreik, R., Skantze, G., Stuart-Smith, J., and Foster, M.E. (2026).
+Multilingual Robots Assisting Newcomers in Public Spaces.
+In: Workshop on "Robots for Communities" @ _HRI’26_.
+[Paper Link](https://drive.google.com/file/d/1P0rAMXiyI3Wyy4YdvEsvDizFe-tNqj42/view?usp=sharing)
+
 **Ashkenazi, S.**, Srour-Zreik, R., Skantze, G., Stuart-Smith, J., and Foster, M.E. (2025).
 Crossing Borders Together: Co-Designing Robots with Refugees and Asylum Seekers.
-Workshop on Robots and Autonomous Systems for Refugees, Asylum Seekers, and Migrants (RAS4RASM) @ _RO-MAN’25_, 2025.
+In: Workshop on "Robots and Autonomous Systems for Refugees, Asylum Seekers, and Migrants (RAS4RASM)" @ _RO-MAN’25_.
 
 **Ashkenazi, S.**, Webber, B., and Wolters, M. (2025). 
 Effective Recovery Strategies in Conversations with Older Adults. 
-Late-Breaking Report @ _RO-MAN’25_, 2025.
+Late-Breaking Report @ _RO-MAN’25_.
 [Paper Link](https://shaulashkenazi.com/publications/2025_RO_MAN_LBR__effective_recovery_strategies_in_conversations_with_older_adults.pdf)
 
 **Ashkenazi, S.**, Skantze, G., Stuart-Smith, J., and Foster, M.E. (2025). 
 Into the Wild: When Robots Are Not Welcome.
-Real-World HRI in Public and Private Spaces: Successes, Failures and Lessons Learned (PubRob-Fails) @ _RO-MAN’25_, 2025. 
+In: Workshop on "Real-World HRI in Public and Private Spaces: Successes, Failures and Lessons Learned (PubRob-Fails)" 
+@ _RO-MAN’25_. 
 DOI: [10.48550/arXiv.2508.12075](https://doi.org/10.48550/arXiv.2508.12075)
 
 Foster, M. E., **Ashkenazi, S.**, Blair, A., Ramirez-Duque, A., Ali, S., Candelaria, P., ... & Zeller, F. (2024). 
 Including Front-Line Workers as Primary Stakeholders in Public-Space HRI.
-First International Workshop on Worker Robot Relationships @ _HRI’24_, 2024. 
+In: "First International Workshop on Worker Robot Relationships" @ _HRI’24_. 
 [Paper Link](https://drive.google.com/file/d/1ITL2tnZ1wJR2Zq6AdxcHZHRPIdgoLcU7/view)
 
 ## Journals
