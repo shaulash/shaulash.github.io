@@ -7,15 +7,15 @@ redirect_from:
   - /about.html
 ---
 <H1>Shaul Ashkenazi</H1>
-PhD Researcher at the University of Glasgow 
+Postdoctoral Researcher at PRISCA Lab, University of Naples Federico II
 <H2>About Me</H2>
-I am a PhD researcher in the School of Computing Science at the University of Glasgow. 
-I am conducting interdisciplinary research on social robots at the 
-[UKRI Centre for Doctoral Training in Social AI](https://socialcdt.org/). 
-My doctoral work focuses on developing a social robot designed to support human staff who assist newcomers in 
-navigating bureaucratic processes. 
-The overarching aim is to create a robot that can help refugees and asylum seekers access essential services in the UK.
-My research interests include human-robot interaction, marginalized populations and multilingualism. 
+I am a Postdoctoral Researcher at PRISCA Lab at the University of Naples Federico II.
+
+My research examines how people interact with social robots in real-world settings. 
+During my PhD at the University of Glasgow, I studied the deployment of social robots in Public Service Spaces, 
+with a particular focus on supporting newcomers, including international students, refugees, and asylum seekers. 
+
+I am currently expanding my research into human-robot interaction for children with autism spectrum disorder at PRISCA lab.
 
 <BR/>
 <img style="border:1px solid #000000" src="images/arcadia.png" width="450">
