@@ -23,4 +23,4 @@ I am currently expanding my research into human-robot interaction for children w
 
 Contact
 ------
-You can contact me at Shaul.Ashkenazi@glasgow.ac.uk
+You can contact me at Shaul.Ashkenazi@unina.it
